@@ -1,4 +1,4 @@
-Author: Matvey Morozov, 676 group
+Author: Matvey Morozov, 676 group, https://www.linkedin.com/in/matveymor/
 
 Course page: https://github.com/ml-mipt/ml-mipt/tree/advanced
 
